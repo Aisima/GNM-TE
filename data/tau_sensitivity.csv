@@ -1,0 +1,17 @@
+structure,state,tau,sink_OR,sink_p,source_OR,source_p
+9dw9,dimerised,0.01,2.96,1.5e-08,0.29,1.1e-05
+9dw9,dimerised,0.03,2.86,5.1e-08,0.29,1.1e-05
+9dw9,dimerised,0.058,2.41,6.5e-06,0.35,0.00012
+9dw9,dimerised,0.1,1.6,0.022,0.41,0.00071
+9dw9,dimerised,0.2,1.25,0.28,1.42,0.083
+9dw9,dimerised,0.5,0.91,0.74,2.24,4.7e-05
+9dw9,dimerised,1.0,0.62,0.051,2.24,4.7e-05
+9dw9,dimerised,3.0,0.35,0.00012,1.8,0.0033
+5uak,separated,0.01,2.62,9.8e-07,0.26,3.1e-06
+5uak,separated,0.03,2.27,4.3e-05,0.26,3.1e-06
+5uak,separated,0.058,1.82,0.0031,0.35,0.00011
+5uak,separated,0.1,1.26,0.27,1.26,0.27
+5uak,separated,0.2,1.01,1.0,2.53,2e-06
+5uak,separated,0.5,0.41,0.00068,2.71,3e-07
+5uak,separated,1.0,0.41,0.00068,2.53,2e-06
+5uak,separated,3.0,0.55,0.016,2.35,1.6e-05

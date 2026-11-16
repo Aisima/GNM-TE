@@ -1,0 +1,7 @@
+control,bihler,tedman,ajrccm,kind
+within dimerized: 9MXL − 6MSM,0.07,0.02,-0.003,null by construction
+within dimerized: 9DW9 − 8V81,-0.08,-0.127,-0.042,null by construction
+within separated: 5UAK − 9DW5,0.032,0.161,-0.033,null by construction
+dimerized half A − half B,-0.134,-0.12,-0.049,null by construction
+permuted Δz (1000x),0.002,0.002,0.0,permutation null mean
+REAL: dimerized − separated,0.283,0.394,0.237,observed

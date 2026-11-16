@@ -1,0 +1,9 @@
+state,variant_set,tier,n_in_tier,n_total,OR,p
+dimerised consensus,CFTR2 CF-causing,sink,52,199,2.415795586527294,6.209322196477121e-06
+dimerised consensus,CFTR2 CF-causing,source,12,199,0.31495029690626947,2.9730617999858744e-05
+dimerised consensus,ClinVar P/LP,sink,48,189,2.267716535433071,5.0539432503846083e-05
+dimerised consensus,ClinVar P/LP,source,11,189,0.30484379281995067,3.2841386135773766e-05
+separated consensus,CFTR2 CF-causing,sink,34,199,1.209486166007905,0.3822895427396875
+separated consensus,CFTR2 CF-causing,source,46,199,1.9614067849361967,0.0009569224470294361
+separated consensus,ClinVar P/LP,sink,34,189,1.3034128097241702,0.22006853930641296
+separated consensus,ClinVar P/LP,source,36,189,1.4221453287197232,0.0946056963363124

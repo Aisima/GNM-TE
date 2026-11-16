@@ -1,0 +1,6 @@
+variant_set,n,sink_OR,sink_p,source_OR,source_p
+CFTR2 CF-causing,199,2.42,6.2e-06,0.31,3e-05
+CFTR2 varying (VCC),64,1.32,0.37,0.57,0.28
+ClinVar P/LP (CF only),174,2.58,2.9e-06,0.27,1.8e-05
+ClinVar P/LP (all cond.),189,2.27,5.1e-05,0.3,3.3e-05
+ClinVar VUS,863,1.0,1,1.16,0.51

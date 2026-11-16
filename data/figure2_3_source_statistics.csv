@@ -1,0 +1,48 @@
+figure,dataset,predictor,outcome,n,rho,ci_lo,ci_hi,p,note
+2b,Bihler 2024,Δz (netTE state change),Corrector gain (C/B ratio),,0.28288792799295714,,,1.5262760632030974e-11,
+2b,Bihler 2024,Δz (netTE state change),Corrector gain (band C),,0.2414824071298456,,,1.0343974758646014e-08,
+2b,Bihler 2024,Δz (netTE state change),Function gain (FSK),,0.2790334789988503,,,2.9386284333221705e-11,
+2b,Bihler 2024,Δz (netTE state change),Combined ELX/TEZ/IVA response,,0.2332786777813336,,,3.297688712769797e-08,
+2b,Bihler 2024,Δz (netTE state change),Potentiator gain (IVA),,0.08646496224393428,,,0.04304619941669811,
+2b,Bihler 2024,AlphaMissense,Corrector gain (C/B ratio),,-0.09939866128627932,,,0.019389453644057423,
+2b,Bihler 2024,AlphaMissense,Corrector gain (band C),,-0.06832945260299723,,,0.10847782965509536,
+2b,Bihler 2024,AlphaMissense,Function gain (FSK),,-0.26648991039800496,,,1.9138768034800355e-10,
+2b,Bihler 2024,AlphaMissense,Combined ELX/TEZ/IVA response,,-0.18437018882515016,,,1.281210385920436e-05,
+2b,Bihler 2024,AlphaMissense,Potentiator gain (IVA),,-0.2216226626397799,,,1.3981418066970538e-07,
+2b,Bihler 2024,Burial (contact number),Corrector gain (C/B ratio),,-0.047801680193833115,,,0.26177739751345436,
+2b,Bihler 2024,Burial (contact number),Corrector gain (band C),,-0.07741011424628859,,,0.06891392337179696,
+2b,Bihler 2024,Burial (contact number),Function gain (FSK),,-0.20532476466476918,,,1.1190512614847037e-06,
+2b,Bihler 2024,Burial (contact number),Combined ELX/TEZ/IVA response,,-0.12868743415409598,,,0.0024295869872472645,
+2b,Bihler 2024,Burial (contact number),Potentiator gain (IVA),,-0.08407722545667602,,,0.04813412908256013,
+2c,Bihler 2024,Delta z,corrector rescue,548.0,0.28288792799295714,0.19322932371310608,0.36944146092724206,1.5262760632030974e-11,
+2c,Bihler 2024,AlphaMissense,corrector rescue,548.0,-0.09939866128627932,,,0.019389453644057423,
+2c,AJRCCM 2026,Delta z,corrector rescue,398.0,0.23695042071255237,0.133004747715732,0.3332174064772482,1.7483649833684447e-06,
+2c,AJRCCM 2026,AlphaMissense,corrector rescue,398.0,-0.17789284313997364,,,0.00033803147177443595,
+2c,Tedman 2025,Delta z,corrector rescue,202.0,0.3940651022641325,0.2689321403640822,0.5039973127683799,6.534516873305902e-09,
+2c,Tedman 2025,AlphaMissense,corrector rescue,202.0,-0.017420588108926757,,,0.8051472236595423,
+2c,McKee 2023,Delta z,corrector rescue,100.0,0.500141020349027,0.35494683048217796,0.6223162767847132,1.1693565455421229e-07,
+2c,McKee 2023,AlphaMissense,corrector rescue,100.0,-0.20377582715416498,,,0.04199916614437259,
+3a,Bihler 2024,within dimerised: 9MXL − 6MSM,corrector rescue,,0.07,,,,null by construction
+3a,Tedman 2025,within dimerised: 9MXL − 6MSM,corrector rescue,,0.02,,,,null by construction
+3a,AJRCCM 2026,within dimerised: 9MXL − 6MSM,corrector rescue,,-0.003,,,,null by construction
+3a,Bihler 2024,within dimerised: 9DW9 − 8V81,corrector rescue,,-0.08,,,,null by construction
+3a,Tedman 2025,within dimerised: 9DW9 − 8V81,corrector rescue,,-0.127,,,,null by construction
+3a,AJRCCM 2026,within dimerised: 9DW9 − 8V81,corrector rescue,,-0.042,,,,null by construction
+3a,Bihler 2024,within separated: 5UAK − 9DW5,corrector rescue,,0.032,,,,null by construction
+3a,Tedman 2025,within separated: 5UAK − 9DW5,corrector rescue,,0.161,,,,null by construction
+3a,AJRCCM 2026,within separated: 5UAK − 9DW5,corrector rescue,,-0.033,,,,null by construction
+3a,Bihler 2024,dimerised half A − half B,corrector rescue,,-0.134,,,,null by construction
+3a,Tedman 2025,dimerised half A − half B,corrector rescue,,-0.12,,,,null by construction
+3a,AJRCCM 2026,dimerised half A − half B,corrector rescue,,-0.049,,,,null by construction
+3a,Bihler 2024,REAL: dimerised − separated,corrector rescue,,0.283,,,,observed
+3a,Tedman 2025,REAL: dimerised − separated,corrector rescue,,0.394,,,,observed
+3a,AJRCCM 2026,REAL: dimerised − separated,corrector rescue,,0.237,,,,observed
+3b,Bihler 2024,Delta z (observed),corrector rescue,,0.28288792799295714,,,0.000999000999000999,"permutation null mean -0.0015 SD 0.0496, 5.7 SD from mean"
+3b,Tedman 2025,Delta z (observed),corrector rescue,,0.3940651022641325,,,0.000999000999000999,"permutation null mean 0.0024 SD 0.0736, 5.3 SD from mean"
+3b,AJRCCM 2026,Delta z (observed),corrector rescue,,0.23695042071255237,,,0.000999000999000999,"permutation null mean -0.0024 SD 0.0521, 4.6 SD from mean"
+3c,McKee 2023,Delta z,corrector fold-change,100.0,0.500141020349027,0.35494683048217796,0.6223162767847132,1.1693565455421229e-07,missense; median fold-change 2.53
+3c,McKee 2023,Delta z,corrector fold-change,12.0,-0.26269742562687987,-0.720455069124424,0.35064056339222255,0.40942819487836374,nonsense; median fold-change 1.99
+3d,Bihler 2024,Δz,Corrector gain,548.0,0.28288792799295714,0.19322932371310608,0.36944146092724206,1.5262760632030974e-11,
+3d,Bihler 2024,Δz,Potentiator gain,548.0,0.08646496224393428,-0.016076483362880752,0.1903167837436444,0.04304619941669811,
+3d,Bihler 2024,AlphaMissense,Corrector gain,553.0,-0.09939866128627932,-0.19073616917960287,-0.006500170809997564,0.019389453644057423,
+3d,Bihler 2024,AlphaMissense,Potentiator gain,553.0,-0.2216226626397799,-0.32332311752838366,-0.11501088311412559,1.3981418066970538e-07,

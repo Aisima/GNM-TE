@@ -1,0 +1,9 @@
+label,level,AUC
+netTE,residue,0.635
+Burial,residue,0.671
+AlphaMissense,residue,0.785
+netTE,substitution,0.747
+"netTE + burial
++ chemistry",substitution,0.855
+"per-residue
+oracle ceiling",substitution,0.91
